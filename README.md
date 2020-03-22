@@ -22,7 +22,7 @@ Hierzu prüft die Lösung gemäß der Empfehlung folgende Bedingungen:
 - mindestens zwei Meter Abstand zu anderen Personen halten und   
 - nicht länger als 15 Minuten in der Nähe von infizierten Personen aufhalten.  
 
-Ansonsten könnte die Möglichkeit einer Ansteckung für den Anwender bestehen.  
+Andernfalls könnte die Möglichkeit einer Ansteckung für den Anwender bestehen.  
 
 ![risk](docs/images/contactrisk.png)
 
@@ -65,7 +65,6 @@ Meldet ein Anwender sich selber als infektiös, wird seine ID an den Server übe
 - Zoom
 
 ## Der Datenschutz
-
 Die Lösung ermittelt eine eindeutige ID des Geräts und nutzt diese zum Austauch mit anderen Geräten.
 
 ...
