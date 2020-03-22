@@ -6,11 +6,11 @@ anonym. solidarisch. sicher.
 
 ## Unsere Motivation
 
-Am 19.03.2020 wurde durch den Bund Deutschland der [Hackathon #WirVsVirus](https://wirvsvirushackathon.org) im Rahmen der Corona-Krise ins Leben gerufen. Es wurden Mitwirkende ("Hacker") aufgefordert, sich amfolgenden  Wochenede vom 20.03. - 22.03. zu beteiligen.
+Am 19.03.2020 wurde durch den Bund Deutschland der [Hackathon #WirVsVirus](https://wirvsvirushackathon.org) im Rahmen der Corona-Krise ins Leben gerufen. Es wurden Mitwirkende ("Hacker") aufgefordert, sich am folgenden  Wochenende vom 20.03. - 22.03. zu beteiligen.
 
-Dem Aufruf sind  Mitarbeiter der Generali Deutschland AG gefolgt. Innerhalb weniger Stunden hat sich interdisziplinäres Team zwischen den Unternehmen Generali Deutschland Informatik Services (GDIS) und Central Krankenversicherung (Central) gebildet.
+Dem Aufruf sind elf Mitarbeiter der Generali Deutschland AG gefolgt. Innerhalb weniger Stunden hat sich ein interdisziplinäres Team aus den Unternehmen Generali Deutschland Informatik Services (GDIS) und Central Krankenversicherung (Central) gebildet.
 
-Im Laufe der Team-Bildung haben sich über Bekannte der Teilnehmer und soziale Medien weitere Teilnehmer dem Team angeschlossen.
+Im Laufe der Team-Bildung haben sich über Bekannte der Teilnehmer und soziale Medien weitere Teilnehmer dem Team angeschlossen. So dass, das Team im Kern aus 14 Mitgliedern bestand und wurde durch mehr als sieben Mentoren und Experten unterstützt.
 
 ## Mission Statement
 
